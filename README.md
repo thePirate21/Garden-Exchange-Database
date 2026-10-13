@@ -35,28 +35,28 @@ The Garden Exchange Database is a relational database designed to support LocalH
 
 ## 5. Team Contributions
 
-Member 1 — Database implementation
+Avuyile Maxhwele - Database implementation
 Main responsibility: database/
 - CREATE TABLE statements for all nine entities.
 - Primary keys, foreign keys and constraints.
 - INSERT statements for sample data.
 - Verify that the database can be created from the scripts.
 
-Member 2 — SQL queries
+Sophumelela Swartbooi — SQL queries
 Main responsibility: queries/
 - Organise the ten queries from Section 6.0.
 - Verify the simple, medium and complex query requirements.
 - Test joins, aggregates, grouping and subqueries.
 - Compare query results with the report.
 
-Member 3 — Python application and testing
+Ezile Mzilikazi — Python application and testing
 Main responsibility: application/ and testing/
 - Maintain Assignment2_app.py.
 - Document the required dependencies.
 - Test the connection and query execution.
 - Record actual test results and relevant screenshots.
 
-Member 4 — Repository coordination and design
+Mike Pike— Repository coordination and design
 Main responsibility: README.md, design/ and integration
 - Set up and organise the repository.
 - Add the ERD and relational schema.
